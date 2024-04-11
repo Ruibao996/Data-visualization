@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0;
+}
+
+#header {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: space-around;
+}
