@@ -1,4 +1,4 @@
-# Reademe
+# Readme
 
 ## My method
 
